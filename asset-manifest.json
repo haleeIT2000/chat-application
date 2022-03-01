@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/haleeIT2000/chat-application/static/css/main.74b22390.css",
+    "main.js": "/haleeIT2000/chat-application/static/js/main.442aeb6a.js",
+    "static/js/787.7db69057.chunk.js": "/haleeIT2000/chat-application/static/js/787.7db69057.chunk.js",
+    "index.html": "/haleeIT2000/chat-application/index.html",
+    "main.74b22390.css.map": "/haleeIT2000/chat-application/static/css/main.74b22390.css.map",
+    "main.442aeb6a.js.map": "/haleeIT2000/chat-application/static/js/main.442aeb6a.js.map",
+    "787.7db69057.chunk.js.map": "/haleeIT2000/chat-application/static/js/787.7db69057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74b22390.css",
+    "static/js/main.442aeb6a.js"
+  ]
+}
